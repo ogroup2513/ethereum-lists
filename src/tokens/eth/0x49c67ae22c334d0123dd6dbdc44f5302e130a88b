@@ -1,0 +1,31 @@
+{
+  "symbol": "LUPX",
+  "name": "Lupecoin",
+  "type": "ERC20",
+  "address": "0x49c67ae22c334d0123dd6dbdc44f5302e130a88b",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.lupecoin.org",
+  "logo": {
+    "src": "https://www.dropbox.com/s/4qhvo12bhmo4o91/LUPX_V2.png?dl=0",
+    "width": "258",
+    "height": "258",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@lupecoin.org", "url": "https://www.lupecoin.org" },
+  "social": {
+    "blog": "https://medium.com/@lupecoinproject",
+    "chat": "",
+    "facebook": "https://www.facebook.com/LupecoinProject/",
+    "forum": "https://bitcointalk.org/index.php?topic=4612542.msg41639583#msg41639583",
+    "github": "https://github.com/LupecoinProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/LupeCoin/",
+    "slack": "",
+    "telegram": "https://t.me/LupeCoinChat",
+    "twitter": "https://twitter.com/LupecoinProject",
+    "youtube": ""
+  }
+}
